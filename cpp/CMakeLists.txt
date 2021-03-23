@@ -7,4 +7,5 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_subdirectory(playground)
 add_subdirectory(third_party)
+add_subdirectory(problems)
 
